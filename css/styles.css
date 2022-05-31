@@ -1,0 +1,144 @@
+body {
+    text-align: center;
+}
+
+#title {
+    background-color: #B3E8E5;
+    height: 50%;
+}
+
+h1 {
+    margin: auto;
+    font-size: 75px;
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: #014d36;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 50px;
+    padding-bottom: 65px;
+    margin: 0;
+}
+
+h3 {
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+p {
+    font-family: "Ubuntu";
+    font-size: 18px;
+    color: #40514E;
+}
+
+.title-text {
+    position: relative;
+    top: 8rem;
+}
+
+.top-cloud {
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+}
+
+.forest-img {
+    position: relative;
+    width: 100%;
+}
+
+.information-text {
+    padding: 75px;
+    width: 75%;
+    margin: auto;
+}
+
+.deforestation-img {
+    width: 25%;
+    margin: 40px;
+}
+
+#effects {
+    background-color: #003c30;
+    color: white;
+    padding-top: 0;
+    padding-bottom: 75px;
+}
+.causes {
+    width: 50%;
+    margin: auto;
+    font-size: 35px;
+    color: white;
+}
+
+.carousel-title {
+    background-color: #003c30;
+    padding-top: 75px;
+    color: white;
+}
+
+.carousel-img {
+    width: 20%;
+    margin-top: 45px;
+}
+
+.carousel-item {
+    height: 450px;
+    overflow: hidden;
+    width: 100%;
+}
+
+
+.solutions-text {
+    padding: 75px;
+}
+
+.solutions-row {
+    width: 50%;
+    margin: 120px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.meat-img {
+    width: 25%;
+    float:left;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+
+.palm-img {
+    width: 25%;
+    float:right;
+    padding-left: 30px;
+}
+
+.awareness-img {
+    width: 25%;
+    float:left;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+
+.solutions-title {
+    padding-bottom: 0;
+}
+
+.bottom-container {
+    background-color: #003c30;
+    color: white;
+    padding: 50px;
+}
+
+.copyright {
+    color: white;
+}
